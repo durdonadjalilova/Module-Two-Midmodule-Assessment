@@ -1,0 +1,27 @@
+#output {
+   height: 50%;
+   font-size: large;
+   border: 3px solid black;
+   padding: 1%
+}
+
+#dice-para {
+    font-size: 50px;
+    display: relative;
+    margin-top: 0%
+}
+
+#sum-word {
+    position:relative;
+    margin-bottom: 10%;
+}
+#history {
+    height: 30%;
+    border: 3px solid black;
+    padding: 1%;
+
+}
+
+li {
+    font-size: larger;
+}
